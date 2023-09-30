@@ -33,10 +33,10 @@ li:nth-child(3) {
 	background-color: pink;
 }
 
-li:first-child,:last-child {
+li:first-child {
 	font-size: 22px;
 }
 
-/* li:last-child {
+li:last-child {
 	font-size: 22px;
-} */
+}
